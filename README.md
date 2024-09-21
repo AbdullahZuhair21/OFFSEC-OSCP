@@ -3,8 +3,8 @@
 
 Whois
 ```powershell
-whois megacorpone.com -h 92.168.1.10   //check admin name for username, tech name for position, name server for the domain
-whois 38.100.193.170 -h 192.168.50.251   //reverse lookup. u can check who is hosting the IP address from Organization
+whois megacorpone.com -h 92.168.1.10   #check admin name for username, tech name for position, name server for the domain
+whois 38.100.193.170 -h 192.168.50.251   #reverse lookup. u can check who is hosting the IP address from Organization
 ```
 
 Google Hacking
