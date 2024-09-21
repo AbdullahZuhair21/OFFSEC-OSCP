@@ -1,5 +1,5 @@
 # OFFSEC-OSCP Notes
-
+# Passive Info Gathering
 
 Whois
 ```powershell
